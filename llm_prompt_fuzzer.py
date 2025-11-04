@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+
 import argparse, requests, json, time, os, hashlib
 from itertools import chain
 from random import choice, randint, shuffle, random
